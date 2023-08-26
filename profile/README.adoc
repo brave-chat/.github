@@ -15,7 +15,6 @@ Our mission is to create a chat application that goes beyond the ordinary. We be
 Join us in expressing gratitude to our generous sponsors who make this project possible:
 
 image:https://seekvectorlogo.com/wp-content/uploads/2022/02/redis-labs-vector-logo-2022-small.png[Redis Logo, 250]
-
 image:https://www.bloorresearch.com/wp-content/uploads/2020/01/SingleStore-logo-470-x-300px-.png[SingleStore Logo, 250]
 
 == ✨ Features
