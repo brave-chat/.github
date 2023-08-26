@@ -1,23 +1,35 @@
-= Brave Chat: The Ultimate Chat Application!
+Brave Chat: The Ultimate Chat Application!
+==========================================
 
-image::https://avatars.githubusercontent.com/u/117317339?s=400&u=0e4c1c516610f5d91ece8bd294ab75581c71ec22&v=4[Brave Chat Logo, 350]
+.. image:: https://avatars.githubusercontent.com/u/117317339?s=400&u=0e4c1c516610f5d91ece8bd294ab75581c71ec22&v=4
+   :alt: Brave Chat Logo
+   :width: 350
 
-== 📜 About Us
+📜 About Us
+===========
 
 Brave Chat is an open-source chat application that aims to provide users with a seamless and feature-rich communication experience.
 
-== 🌟 Our Mission
+🌟 Our Mission
+===============
 
 Our mission is to create a chat application that goes beyond the ordinary. We believe in fostering meaningful connections, enhancing user privacy, and providing a space for collaboration among individuals.
 
-== 🤝 Proud Sponsors
+🤝 Proud Sponsors
+===================
 
 Join us in expressing gratitude to our generous sponsors who make this project possible:
 
-image:https://seekvectorlogo.com/wp-content/uploads/2022/02/redis-labs-vector-logo-2022-small.png[Redis Logo, 250]
-image:https://assets.stickpng.com/images/62f9006fa8320dd346143be1.png[SingleStore Logo, 250]
+.. image:: https://seekvectorlogo.com/wp-content/uploads/2022/02/redis-labs-vector-logo-2022-small.png
+   :alt: Redis Logo
+   :width: 250
 
-== ✨ Features
+.. image:: https://assets.stickpng.com/images/62f9006fa8320dd346143be1.png
+   :alt: SingleStore Logo
+   :width: 250
+
+✨ Features
+===========
 
 Brave Chat is equipped with a wide range of features:
 
@@ -27,7 +39,8 @@ Brave Chat is equipped with a wide range of features:
 - Emojis support
 - Cross-platform functionality
 
-== 🚀 Upcoming Features
+🚀 Upcoming Features
+======================
 
 We're excited to share some of the features that are currently in the pipeline for Brave Chat:
 
@@ -38,27 +51,32 @@ We're excited to share some of the features that are currently in the pipeline f
 - Integration with third-party services
 - Voice and video calls
 
-== 👥 Get Involved
+👥 Get Involved
+==================
 
 We welcome contributions from the community to make Brave Chat even better. Whether you're a developer, designer, or enthusiast, there's a place for you in our community.
 
-Join us on GitHub: link:https://github.com/brave-chat[Brave Chat GitHub]
+Join us on GitHub: `Brave Chat GitHub <https://github.com/brave-chat>`_
 
-== 👏 Contribute
+👏 Contribute
+==============
 
 Contributions are the heart and soul of our project. If you're interested in contributing, check out the contribution guidelines for each repository.
 
-== 📞 Contact Us
+📞 Contact Us
+==============
 
 Have questions, suggestions, or just want to say hello? Reach out to us at support@brave-chat.net.
 
-image::contact_us.png[Contact Us]
+.. image:: contact_us.png
+   :alt: Contact Us
 
-== 🌐 Spread the Word
+🌐 Spread the Word
+====================
 
 Help us spread the word about Brave Chat and let's create a global community of communicators! Share our project with your friends and colleagues.
 
-== 📄 License
+📄 License
+===========
 
-Brave Chat is released under the link:https://github.com/brave-chat/brave-chat/blob/main/LICENSE[MIT License].
-
+Brave Chat is released under the `MIT License <https://github.com/brave-chat/brave-chat/blob/main/LICENSE>`_.
