@@ -53,8 +53,6 @@ Contributions are the heart and soul of our project. If you're interested in con
 
 Have questions, suggestions, or just want to say hello? Reach out to us at support@brave-chat.net.
 
-image::contact_us.png[Contact Us]
-
 == 🌐 Spread the Word
 
 Help us spread the word about Brave Chat and let's create a global community of communicators! Share our project with your friends and colleagues.
