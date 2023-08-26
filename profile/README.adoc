@@ -14,7 +14,7 @@ Our mission is to create a chat application that goes beyond the ordinary. We be
 
 Join us in expressing gratitude to our generous sponsors who make this project possible:
 
-image:https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Logo-redis.svg/2560px-Logo-redis.svg.png[Redis Logo, 250]
+image:https://miro.medium.com/v2/resize:fit:1400/1*Jed-UVwaIqf16oq5f8ATDQ.png[Redis Logo, 250]
 image:https://www.bloorresearch.com/wp-content/uploads/2020/01/SingleStore-logo-470-x-300px-.png[SingleStore Logo, 350]
 
 == ✨ Features
